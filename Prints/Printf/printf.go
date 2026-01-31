@@ -1,10 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math/rand"
+)
 
 func main() {
-	customVariable := 10
+	randomNumber := rand.Intn(100)
 
 	// Custom Print
-	fmt.Printf("Custom Print %d\n", customVariable)
+	fmt.Printf("Custom Print %d\n", randomNumber)
 }

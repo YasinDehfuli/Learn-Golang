@@ -1,0 +1,23 @@
+{
+  "name": "learn-golang",
+  "version": "1.0.0",
+  "description": "Just A Little Learn How To GOLANG",
+  "keywords": [
+    "golang"
+  ],
+  "homepage": "https://github.com/YasinDehfuli/Learn-Golang#readme",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/Learn-Golang/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/Learn-Golang.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
